@@ -6007,3 +6007,53 @@ sqlalchemy.exc.IntegrityError: (sqlite3.IntegrityError) NOT NULL constraint fail
 2025-02-15 18:27:42,662 - INFO - 127.0.0.1 - - [15/Feb/2025 18:27:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
 2025-02-15 18:27:42,665 - INFO - 127.0.0.1 - - [15/Feb/2025 18:27:42] "[36mGET /static/js/get_data.js HTTP/1.1[0m" 304 -
 2025-02-15 18:27:42,693 - INFO - 127.0.0.1 - - [15/Feb/2025 18:27:42] "GET /get-data HTTP/1.1" 200 -
+2025-02-15 18:27:48,769 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.10:5000
+2025-02-15 18:27:48,769 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-15 18:27:49,735 - INFO - 127.0.0.1 - - [15/Feb/2025 18:27:49] "GET /edit_timetable HTTP/1.1" 200 -
+2025-02-15 18:27:49,790 - INFO - 127.0.0.1 - - [15/Feb/2025 18:27:49] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-15 18:27:49,814 - INFO - 127.0.0.1 - - [15/Feb/2025 18:27:49] "GET /static/js/get_data.js HTTP/1.1" 200 -
+2025-02-15 18:27:49,834 - INFO - 127.0.0.1 - - [15/Feb/2025 18:27:49] "GET /get-data HTTP/1.1" 200 -
+2025-02-15 18:27:49,834 - INFO - 127.0.0.1 - - [15/Feb/2025 18:27:49] "GET /static/image/transparent-pattern-square-4.png HTTP/1.1" 200 -
+2025-02-15 18:27:49,967 - INFO - 127.0.0.1 - - [15/Feb/2025 18:27:49] "GET /static/image/Icon-UEF.webp HTTP/1.1" 200 -
+2025-02-15 18:28:11,038 - INFO - 127.0.0.1 - - [15/Feb/2025 18:28:11] "GET /edit_timetable HTTP/1.1" 200 -
+2025-02-15 18:28:11,068 - INFO - 127.0.0.1 - - [15/Feb/2025 18:28:11] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-15 18:28:11,085 - INFO - 127.0.0.1 - - [15/Feb/2025 18:28:11] "GET /static/js/get_data.js HTTP/1.1" 200 -
+2025-02-15 18:28:11,120 - INFO - 127.0.0.1 - - [15/Feb/2025 18:28:11] "GET /get-data HTTP/1.1" 200 -
+2025-02-15 18:28:11,122 - INFO - 127.0.0.1 - - [15/Feb/2025 18:28:11] "GET /static/image/transparent-pattern-square-4.png HTTP/1.1" 200 -
+2025-02-15 18:28:11,249 - INFO - 127.0.0.1 - - [15/Feb/2025 18:28:11] "GET /static/image/Icon-UEF.webp HTTP/1.1" 200 -
+2025-02-15 18:28:19,654 - INFO - 127.0.0.1 - - [15/Feb/2025 18:28:19] "GET /edit_timetable HTTP/1.1" 200 -
+2025-02-15 18:28:19,688 - INFO - 127.0.0.1 - - [15/Feb/2025 18:28:19] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-15 18:28:19,706 - INFO - 127.0.0.1 - - [15/Feb/2025 18:28:19] "GET /static/js/get_data.js HTTP/1.1" 200 -
+2025-02-15 18:28:19,736 - INFO - 127.0.0.1 - - [15/Feb/2025 18:28:19] "GET /get-data HTTP/1.1" 200 -
+2025-02-15 18:28:19,737 - INFO - 127.0.0.1 - - [15/Feb/2025 18:28:19] "GET /static/image/transparent-pattern-square-4.png HTTP/1.1" 200 -
+2025-02-15 18:28:19,879 - INFO - 127.0.0.1 - - [15/Feb/2025 18:28:19] "GET /static/image/Icon-UEF.webp HTTP/1.1" 200 -
+2025-02-15 18:28:52,967 - INFO - 127.0.0.1 - - [15/Feb/2025 18:28:52] "GET /edit_timetable HTTP/1.1" 200 -
+2025-02-15 18:28:53,004 - INFO - 127.0.0.1 - - [15/Feb/2025 18:28:53] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-15 18:28:53,023 - INFO - 127.0.0.1 - - [15/Feb/2025 18:28:53] "GET /static/js/get_data.js HTTP/1.1" 200 -
+2025-02-15 18:28:53,065 - INFO - 127.0.0.1 - - [15/Feb/2025 18:28:53] "GET /get-data HTTP/1.1" 200 -
+2025-02-15 18:28:53,066 - INFO - 127.0.0.1 - - [15/Feb/2025 18:28:53] "GET /static/image/transparent-pattern-square-4.png HTTP/1.1" 200 -
+2025-02-15 18:28:53,196 - INFO - 127.0.0.1 - - [15/Feb/2025 18:28:53] "GET /static/image/Icon-UEF.webp HTTP/1.1" 200 -
+2025-02-15 18:29:01,484 - INFO - 127.0.0.1 - - [15/Feb/2025 18:29:01] "GET /new_timetable HTTP/1.1" 200 -
+2025-02-15 18:29:01,527 - INFO - 127.0.0.1 - - [15/Feb/2025 18:29:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-15 18:29:01,538 - INFO - 127.0.0.1 - - [15/Feb/2025 18:29:01] "[36mGET /static/js/add_data.js HTTP/1.1[0m" 304 -
+2025-02-15 18:29:01,555 - INFO - 127.0.0.1 - - [15/Feb/2025 18:29:01] "[36mGET /static/image/transparent-pattern-square-4.png HTTP/1.1[0m" 304 -
+2025-02-15 18:29:43,910 - INFO - 127.0.0.1 - - [15/Feb/2025 18:29:43] "GET /new_timetable HTTP/1.1" 200 -
+2025-02-15 18:29:43,952 - INFO - 127.0.0.1 - - [15/Feb/2025 18:29:43] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-15 18:29:43,971 - INFO - 127.0.0.1 - - [15/Feb/2025 18:29:43] "GET /static/js/add_data.js HTTP/1.1" 200 -
+2025-02-15 18:29:44,014 - INFO - 127.0.0.1 - - [15/Feb/2025 18:29:44] "GET /static/image/transparent-pattern-square-4.png HTTP/1.1" 200 -
+2025-02-15 18:29:44,138 - INFO - 127.0.0.1 - - [15/Feb/2025 18:29:44] "GET /static/image/Icon-UEF.webp HTTP/1.1" 200 -
+2025-02-15 18:29:46,004 - INFO - 127.0.0.1 - - [15/Feb/2025 18:29:46] "GET /edit_timetable HTTP/1.1" 200 -
+2025-02-15 18:29:46,046 - INFO - 127.0.0.1 - - [15/Feb/2025 18:29:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-15 18:29:46,058 - INFO - 127.0.0.1 - - [15/Feb/2025 18:29:46] "[36mGET /static/js/get_data.js HTTP/1.1[0m" 304 -
+2025-02-15 18:29:46,075 - INFO - 127.0.0.1 - - [15/Feb/2025 18:29:46] "GET /get-data HTTP/1.1" 200 -
+2025-02-15 18:29:49,897 - INFO - 127.0.0.1 - - [15/Feb/2025 18:29:49] "GET / HTTP/1.1" 200 -
+2025-02-15 18:29:49,942 - INFO - 127.0.0.1 - - [15/Feb/2025 18:29:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-15 18:29:49,947 - INFO - 127.0.0.1 - - [15/Feb/2025 18:29:49] "[36mGET /static/js/next_week.js HTTP/1.1[0m" 304 -
+2025-02-15 18:29:49,979 - INFO - 127.0.0.1 - - [15/Feb/2025 18:29:49] "GET /next-week?week_offset=0 HTTP/1.1" 200 -
+2025-02-15 18:29:52,546 - INFO - 127.0.0.1 - - [15/Feb/2025 18:29:52] "GET /edit_timetable HTTP/1.1" 200 -
+2025-02-15 18:29:52,563 - INFO - 127.0.0.1 - - [15/Feb/2025 18:29:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-15 18:29:52,568 - INFO - 127.0.0.1 - - [15/Feb/2025 18:29:52] "[36mGET /static/js/get_data.js HTTP/1.1[0m" 304 -
+2025-02-15 18:29:52,582 - INFO - 127.0.0.1 - - [15/Feb/2025 18:29:52] "GET /get-data HTTP/1.1" 200 -
