@@ -1,0 +1,10 @@
+{
+  "name": "timetable-bin",
+  "version": "1.0.0",
+  "scripts": {
+    "obfuscate": "javascript-obfuscator src/js --output static/js"
+  },
+  "devDependencies": {
+    "javascript-obfuscator": "^4.1.1"
+  }
+}
