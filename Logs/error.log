@@ -5377,3 +5377,19 @@ sqlalchemy.exc.IntegrityError: (sqlite3.IntegrityError) NOT NULL constraint fail
 2025-02-15 09:04:04,681 - INFO - 127.0.0.1 - - [15/Feb/2025 09:04:04] "GET /static/image/transparent-pattern-square-4.png HTTP/1.1" 200 -
 2025-02-15 09:04:04,716 - INFO - 127.0.0.1 - - [15/Feb/2025 09:04:04] "GET /static/image/Icon-UEF.webp HTTP/1.1" 200 -
 2025-02-15 09:04:09,422 - INFO - 127.0.0.1 - - [15/Feb/2025 09:04:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-15 17:19:26,735 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-15 17:19:26,735 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-15 17:19:26,737 - INFO -  * Restarting with stat
+2025-02-15 17:19:27,479 - WARNING -  * Debugger is active!
+2025-02-15 17:19:27,483 - INFO -  * Debugger PIN: 837-726-632
+2025-02-15 17:19:42,723 - INFO - 127.0.0.1 - - [15/Feb/2025 17:19:42] "GET / HTTP/1.1" 200 -
+2025-02-15 17:19:42,804 - INFO - 127.0.0.1 - - [15/Feb/2025 17:19:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-15 17:19:42,820 - INFO - 127.0.0.1 - - [15/Feb/2025 17:19:42] "GET /static/js/next_week.js HTTP/1.1" 200 -
+2025-02-15 17:19:42,830 - INFO - 127.0.0.1 - - [15/Feb/2025 17:19:42] "GET /static/image/transparent-pattern-square-4.png HTTP/1.1" 200 -
+2025-02-15 17:19:42,870 - INFO - 127.0.0.1 - - [15/Feb/2025 17:19:42] "GET /next-week?week_offset=0 HTTP/1.1" 200 -
+2025-02-15 17:19:43,384 - INFO - 127.0.0.1 - - [15/Feb/2025 17:19:43] "GET /static/image/Icon-UEF.webp HTTP/1.1" 200 -
+2025-02-15 17:19:46,205 - INFO - 127.0.0.1 - - [15/Feb/2025 17:19:46] "GET /edit_timetable HTTP/1.1" 200 -
+2025-02-15 17:19:46,223 - INFO - 127.0.0.1 - - [15/Feb/2025 17:19:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-15 17:19:46,231 - INFO - 127.0.0.1 - - [15/Feb/2025 17:19:46] "GET /static/js/get_data.js HTTP/1.1" 200 -
+2025-02-15 17:19:46,238 - INFO - 127.0.0.1 - - [15/Feb/2025 17:19:46] "GET /get-data HTTP/1.1" 200 -
