@@ -28,7 +28,6 @@ document.addEventListener('DOMContentLoaded', function () {
     function changeWeek(days) {
         displayed_Week.setDate(displayed_Week.getDate() + days);
         offset += days / 7;
-        console.log(offset);
         update_Week(displayed_Week, offset);
     }
 
