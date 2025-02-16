@@ -97,6 +97,31 @@ function get_subject_name() {
         })
         .catch(error => console.error('Error fetching subjects:', error));
     }
+
+
+
+    function delete_schedule() {
+        const accept_btn = document.getElementById('accept_delete_all_data_json');
+        const schedule_id = accept_btn.getAttribute('data-schedule-id');
+        const class_id = accept_btn.getAttribute('data-class-id');
+        
+        fetch(`/delete-schedule?class_id=${class_id}`)
+        .then(response => response.json())
+        .then(result => {
+            var error = document.getElementById('error_notify_edit_data');
+            if(result.status = "success"){
+                error.textContent = result.message;
+                var popup = document.getElementById('popup-confirm-delete');
+                popup.classList.remove('active');
+                get_subject_name();
+                updateFormFields(null);
+
+            } else {
+                error.textContent = result.message;
+            }
+        })
+        .catch(error => console.error('Error fetching subjects:', error));
+    }
     
 
     function updateFormFields(result){
@@ -121,8 +146,7 @@ function get_subject_name() {
             });
 
         } else {
-            console.log(result.data[0]);
-            
+
             document.getElementById('error_notify_edit_data').textContent = '';
             document.getElementById('Period_from').value = result.data[0].period_from;
             document.getElementById('Period_to').value = result.data[0].period_to;
@@ -149,6 +173,10 @@ function get_subject_name() {
                     checkbox.checked = false;
                 });
             }
+
+            const button_accept = document.getElementById('accept_delete_all_data_json');
+            button_accept.setAttribute('data-schedule-id', result.data[0].id_schedule);
+            button_accept.setAttribute('data-class-id', result.data[0].id_class);
         }
     }
 
