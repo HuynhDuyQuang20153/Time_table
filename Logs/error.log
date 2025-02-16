@@ -994,3 +994,142 @@
 2025-02-16 20:44:24,846 - INFO - 127.0.0.1 - - [16/Feb/2025 20:44:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
 2025-02-16 20:44:24,852 - INFO - 127.0.0.1 - - [16/Feb/2025 20:44:24] "[36mGET /static/js/next_week.js HTTP/1.1[0m" 304 -
 2025-02-16 20:44:24,865 - INFO - 127.0.0.1 - - [16/Feb/2025 20:44:24] "GET /next-week?week_offset=0 HTTP/1.1" 200 -
+2025-02-16 21:43:59,676 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.24:5000
+2025-02-16 21:43:59,676 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-16 21:44:01,596 - INFO - 127.0.0.1 - - [16/Feb/2025 21:44:01] "GET / HTTP/1.1" 200 -
+2025-02-16 21:44:01,697 - INFO - 127.0.0.1 - - [16/Feb/2025 21:44:01] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-16 21:44:01,700 - INFO - 127.0.0.1 - - [16/Feb/2025 21:44:01] "[36mGET /static/js/next_week.js HTTP/1.1[0m" 304 -
+2025-02-16 21:44:01,716 - INFO - 127.0.0.1 - - [16/Feb/2025 21:44:01] "[36mGET /static/image/transparent-pattern-square-4.png HTTP/1.1[0m" 304 -
+2025-02-16 21:44:01,763 - INFO - 127.0.0.1 - - [16/Feb/2025 21:44:01] "GET /next-week?week_offset=0 HTTP/1.1" 200 -
+2025-02-16 21:44:03,514 - INFO - 127.0.0.1 - - [16/Feb/2025 21:44:03] "GET /new_timetable HTTP/1.1" 200 -
+2025-02-16 21:44:03,538 - INFO - 127.0.0.1 - - [16/Feb/2025 21:44:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-16 21:44:03,545 - INFO - 127.0.0.1 - - [16/Feb/2025 21:44:03] "[36mGET /static/js/add_data.js HTTP/1.1[0m" 304 -
+2025-02-16 21:44:11,930 - INFO - 127.0.0.1 - - [16/Feb/2025 21:44:11] "GET /edit_timetable HTTP/1.1" 200 -
+2025-02-16 21:44:11,949 - INFO - 127.0.0.1 - - [16/Feb/2025 21:44:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-16 21:44:11,956 - INFO - 127.0.0.1 - - [16/Feb/2025 21:44:11] "[36mGET /static/js/get_data.js HTTP/1.1[0m" 304 -
+2025-02-16 21:44:11,970 - INFO - 127.0.0.1 - - [16/Feb/2025 21:44:11] "GET /get-data HTTP/1.1" 200 -
+2025-02-16 21:44:29,636 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.24:5000
+2025-02-16 21:44:29,636 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-16 21:44:30,512 - INFO - 127.0.0.1 - - [16/Feb/2025 21:44:30] "GET /edit_timetable HTTP/1.1" 200 -
+2025-02-16 21:44:30,587 - INFO - 127.0.0.1 - - [16/Feb/2025 21:44:30] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-16 21:44:30,590 - INFO - 127.0.0.1 - - [16/Feb/2025 21:44:30] "GET /static/js/get_data.js HTTP/1.1" 200 -
+2025-02-16 21:44:30,607 - INFO - 127.0.0.1 - - [16/Feb/2025 21:44:30] "GET /get-data HTTP/1.1" 200 -
+2025-02-16 21:44:30,607 - INFO - 127.0.0.1 - - [16/Feb/2025 21:44:30] "GET /static/image/transparent-pattern-square-4.png HTTP/1.1" 200 -
+2025-02-16 21:44:30,640 - INFO - 127.0.0.1 - - [16/Feb/2025 21:44:30] "GET /static/image/Icon-UEF.webp HTTP/1.1" 200 -
+2025-02-16 21:44:47,327 - INFO - 127.0.0.1 - - [16/Feb/2025 21:44:47] "GET /new_timetable HTTP/1.1" 200 -
+2025-02-16 21:44:47,349 - INFO - 127.0.0.1 - - [16/Feb/2025 21:44:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-16 21:44:47,352 - INFO - 127.0.0.1 - - [16/Feb/2025 21:44:47] "GET /static/js/add_data.js HTTP/1.1" 200 -
+2025-02-16 21:44:47,366 - INFO - 127.0.0.1 - - [16/Feb/2025 21:44:47] "[36mGET /static/image/transparent-pattern-square-4.png HTTP/1.1[0m" 304 -
+2025-02-16 21:44:55,230 - INFO - 127.0.0.1 - - [16/Feb/2025 21:44:55] "GET /edit_timetable HTTP/1.1" 200 -
+2025-02-16 21:44:55,247 - INFO - 127.0.0.1 - - [16/Feb/2025 21:44:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-16 21:44:55,253 - INFO - 127.0.0.1 - - [16/Feb/2025 21:44:55] "[36mGET /static/js/get_data.js HTTP/1.1[0m" 304 -
+2025-02-16 21:44:55,266 - INFO - 127.0.0.1 - - [16/Feb/2025 21:44:55] "GET /get-data HTTP/1.1" 200 -
+2025-02-16 21:44:55,267 - INFO - 127.0.0.1 - - [16/Feb/2025 21:44:55] "[36mGET /static/image/transparent-pattern-square-4.png HTTP/1.1[0m" 304 -
+2025-02-16 21:45:32,662 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.24:5000
+2025-02-16 21:45:32,663 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-16 21:45:34,398 - INFO - 127.0.0.1 - - [16/Feb/2025 21:45:34] "GET /edit_timetable HTTP/1.1" 200 -
+2025-02-16 21:45:34,468 - INFO - 127.0.0.1 - - [16/Feb/2025 21:45:34] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-16 21:45:34,475 - INFO - 127.0.0.1 - - [16/Feb/2025 21:45:34] "GET /static/js/get_data.js HTTP/1.1" 200 -
+2025-02-16 21:45:34,490 - INFO - 127.0.0.1 - - [16/Feb/2025 21:45:34] "GET /get-data HTTP/1.1" 200 -
+2025-02-16 21:45:34,490 - INFO - 127.0.0.1 - - [16/Feb/2025 21:45:34] "GET /static/image/transparent-pattern-square-4.png HTTP/1.1" 200 -
+2025-02-16 21:45:34,521 - INFO - 127.0.0.1 - - [16/Feb/2025 21:45:34] "GET /static/image/Icon-UEF.webp HTTP/1.1" 200 -
+2025-02-16 21:46:04,487 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.24:5000
+2025-02-16 21:46:04,487 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-16 21:46:09,523 - INFO - 127.0.0.1 - - [16/Feb/2025 21:46:09] "GET /edit_timetable HTTP/1.1" 200 -
+2025-02-16 21:46:09,585 - INFO - 127.0.0.1 - - [16/Feb/2025 21:46:09] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-16 21:46:09,594 - INFO - 127.0.0.1 - - [16/Feb/2025 21:46:09] "GET /static/js/get_data.js HTTP/1.1" 200 -
+2025-02-16 21:46:09,611 - INFO - 127.0.0.1 - - [16/Feb/2025 21:46:09] "GET /get-data HTTP/1.1" 200 -
+2025-02-16 21:46:09,611 - INFO - 127.0.0.1 - - [16/Feb/2025 21:46:09] "GET /static/image/transparent-pattern-square-4.png HTTP/1.1" 200 -
+2025-02-16 21:46:09,644 - INFO - 127.0.0.1 - - [16/Feb/2025 21:46:09] "GET /static/image/Icon-UEF.webp HTTP/1.1" 200 -
+2025-02-16 21:46:18,424 - INFO - 127.0.0.1 - - [16/Feb/2025 21:46:18] "GET /get-data-details?schedule_id=1 HTTP/1.1" 200 -
+2025-02-16 21:46:43,700 - INFO - 127.0.0.1 - - [16/Feb/2025 21:46:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-16 21:49:48,871 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.24:5000
+2025-02-16 21:49:48,871 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-16 21:49:51,046 - INFO - 127.0.0.1 - - [16/Feb/2025 21:49:51] "GET /edit_timetable HTTP/1.1" 200 -
+2025-02-16 21:49:51,112 - INFO - 127.0.0.1 - - [16/Feb/2025 21:49:51] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-16 21:49:51,127 - INFO - 127.0.0.1 - - [16/Feb/2025 21:49:51] "GET /static/js/get_data.js HTTP/1.1" 200 -
+2025-02-16 21:49:51,143 - INFO - 127.0.0.1 - - [16/Feb/2025 21:49:51] "GET /get-data HTTP/1.1" 200 -
+2025-02-16 21:49:51,144 - INFO - 127.0.0.1 - - [16/Feb/2025 21:49:51] "GET /static/image/transparent-pattern-square-4.png HTTP/1.1" 200 -
+2025-02-16 21:49:51,233 - INFO - 127.0.0.1 - - [16/Feb/2025 21:49:51] "GET /static/image/Icon-UEF.webp HTTP/1.1" 200 -
+2025-02-16 21:49:54,264 - INFO - 127.0.0.1 - - [16/Feb/2025 21:49:54] "GET /get-data-details?schedule_id=1 HTTP/1.1" 200 -
+2025-02-16 21:50:26,229 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.24:5000
+2025-02-16 21:50:26,229 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-16 21:50:27,922 - INFO - 127.0.0.1 - - [16/Feb/2025 21:50:27] "GET /edit_timetable HTTP/1.1" 200 -
+2025-02-16 21:50:28,003 - INFO - 127.0.0.1 - - [16/Feb/2025 21:50:28] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-16 21:50:28,008 - INFO - 127.0.0.1 - - [16/Feb/2025 21:50:28] "GET /static/js/get_data.js HTTP/1.1" 200 -
+2025-02-16 21:50:28,031 - INFO - 127.0.0.1 - - [16/Feb/2025 21:50:28] "GET /get-data HTTP/1.1" 200 -
+2025-02-16 21:50:28,031 - INFO - 127.0.0.1 - - [16/Feb/2025 21:50:28] "GET /static/image/transparent-pattern-square-4.png HTTP/1.1" 200 -
+2025-02-16 21:50:28,069 - INFO - 127.0.0.1 - - [16/Feb/2025 21:50:28] "GET /static/image/Icon-UEF.webp HTTP/1.1" 200 -
+2025-02-16 21:50:29,665 - INFO - 127.0.0.1 - - [16/Feb/2025 21:50:29] "GET /new_timetable HTTP/1.1" 200 -
+2025-02-16 21:50:29,687 - INFO - 127.0.0.1 - - [16/Feb/2025 21:50:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-16 21:50:29,693 - INFO - 127.0.0.1 - - [16/Feb/2025 21:50:29] "GET /static/js/add_data.js HTTP/1.1" 200 -
+2025-02-16 21:52:24,071 - INFO - 127.0.0.1 - - [16/Feb/2025 21:52:24] "GET /edit_timetable HTTP/1.1" 200 -
+2025-02-16 21:52:24,102 - INFO - 127.0.0.1 - - [16/Feb/2025 21:52:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-16 21:52:24,103 - INFO - 127.0.0.1 - - [16/Feb/2025 21:52:24] "[36mGET /static/js/get_data.js HTTP/1.1[0m" 304 -
+2025-02-16 21:52:24,123 - INFO - 127.0.0.1 - - [16/Feb/2025 21:52:24] "GET /get-data HTTP/1.1" 200 -
+2025-02-16 21:53:00,397 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.24:5000
+2025-02-16 21:53:00,397 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-16 21:53:02,034 - INFO - 127.0.0.1 - - [16/Feb/2025 21:53:02] "GET /edit_timetable HTTP/1.1" 200 -
+2025-02-16 21:53:02,106 - INFO - 127.0.0.1 - - [16/Feb/2025 21:53:02] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-16 21:53:02,113 - INFO - 127.0.0.1 - - [16/Feb/2025 21:53:02] "GET /static/js/get_data.js HTTP/1.1" 200 -
+2025-02-16 21:53:02,134 - INFO - 127.0.0.1 - - [16/Feb/2025 21:53:02] "GET /get-data HTTP/1.1" 200 -
+2025-02-16 21:53:02,134 - INFO - 127.0.0.1 - - [16/Feb/2025 21:53:02] "GET /static/image/transparent-pattern-square-4.png HTTP/1.1" 200 -
+2025-02-16 21:53:02,169 - INFO - 127.0.0.1 - - [16/Feb/2025 21:53:02] "GET /static/image/Icon-UEF.webp HTTP/1.1" 200 -
+2025-02-16 21:53:03,473 - INFO - 127.0.0.1 - - [16/Feb/2025 21:53:03] "GET /new_timetable HTTP/1.1" 200 -
+2025-02-16 21:53:03,495 - INFO - 127.0.0.1 - - [16/Feb/2025 21:53:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-16 21:53:03,502 - INFO - 127.0.0.1 - - [16/Feb/2025 21:53:03] "GET /static/js/add_data.js HTTP/1.1" 200 -
+2025-02-16 21:53:08,232 - INFO - 127.0.0.1 - - [16/Feb/2025 21:53:08] "GET /edit_timetable HTTP/1.1" 200 -
+2025-02-16 21:53:08,249 - INFO - 127.0.0.1 - - [16/Feb/2025 21:53:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-16 21:53:08,256 - INFO - 127.0.0.1 - - [16/Feb/2025 21:53:08] "[36mGET /static/js/get_data.js HTTP/1.1[0m" 304 -
+2025-02-16 21:53:08,265 - INFO - 127.0.0.1 - - [16/Feb/2025 21:53:08] "GET /get-data HTTP/1.1" 200 -
+2025-02-16 21:53:08,977 - INFO - 127.0.0.1 - - [16/Feb/2025 21:53:08] "GET /edit_timetable HTTP/1.1" 200 -
+2025-02-16 21:53:08,992 - INFO - 127.0.0.1 - - [16/Feb/2025 21:53:08] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-16 21:53:09,000 - INFO - 127.0.0.1 - - [16/Feb/2025 21:53:09] "GET /static/js/get_data.js HTTP/1.1" 200 -
+2025-02-16 21:53:09,054 - INFO - 127.0.0.1 - - [16/Feb/2025 21:53:09] "GET /get-data HTTP/1.1" 200 -
+2025-02-16 21:53:09,055 - INFO - 127.0.0.1 - - [16/Feb/2025 21:53:09] "GET /static/image/transparent-pattern-square-4.png HTTP/1.1" 200 -
+2025-02-16 21:53:09,082 - INFO - 127.0.0.1 - - [16/Feb/2025 21:53:09] "GET /static/image/Icon-UEF.webp HTTP/1.1" 200 -
+2025-02-16 21:53:13,423 - INFO - 127.0.0.1 - - [16/Feb/2025 21:53:13] "GET /get-data-details?schedule_id=1 HTTP/1.1" 200 -
+2025-02-16 21:53:47,573 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.24:5000
+2025-02-16 21:53:47,573 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-16 21:53:48,812 - INFO - 127.0.0.1 - - [16/Feb/2025 21:53:48] "GET /edit_timetable HTTP/1.1" 200 -
+2025-02-16 21:53:48,890 - INFO - 127.0.0.1 - - [16/Feb/2025 21:53:48] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-16 21:53:48,898 - INFO - 127.0.0.1 - - [16/Feb/2025 21:53:48] "GET /static/js/get_data.js HTTP/1.1" 200 -
+2025-02-16 21:53:48,920 - INFO - 127.0.0.1 - - [16/Feb/2025 21:53:48] "GET /get-data HTTP/1.1" 200 -
+2025-02-16 21:53:48,920 - INFO - 127.0.0.1 - - [16/Feb/2025 21:53:48] "GET /static/image/transparent-pattern-square-4.png HTTP/1.1" 200 -
+2025-02-16 21:53:48,957 - INFO - 127.0.0.1 - - [16/Feb/2025 21:53:48] "GET /static/image/Icon-UEF.webp HTTP/1.1" 200 -
+2025-02-16 21:53:55,698 - INFO - 127.0.0.1 - - [16/Feb/2025 21:53:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-16 21:54:14,951 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.24:5000
+2025-02-16 21:54:14,951 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-16 21:54:16,143 - INFO - 127.0.0.1 - - [16/Feb/2025 21:54:16] "GET /edit_timetable HTTP/1.1" 200 -
+2025-02-16 21:54:16,195 - INFO - 127.0.0.1 - - [16/Feb/2025 21:54:16] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-16 21:54:16,224 - INFO - 127.0.0.1 - - [16/Feb/2025 21:54:16] "GET /static/js/get_data.js HTTP/1.1" 200 -
+2025-02-16 21:54:16,242 - INFO - 127.0.0.1 - - [16/Feb/2025 21:54:16] "GET /get-data HTTP/1.1" 200 -
+2025-02-16 21:54:16,244 - INFO - 127.0.0.1 - - [16/Feb/2025 21:54:16] "GET /static/image/transparent-pattern-square-4.png HTTP/1.1" 200 -
+2025-02-16 21:54:16,361 - INFO - 127.0.0.1 - - [16/Feb/2025 21:54:16] "GET /static/image/Icon-UEF.webp HTTP/1.1" 200 -

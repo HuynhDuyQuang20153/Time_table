@@ -244,19 +244,10 @@ function get_subject_name() {
             var admin_code = document.getElementById('admin_code').value;
             const type_class = getSelectedRadioValue();
             var error = document.getElementById('error_notify_edit_data');
-    
-            if (id_subject.trim() == '') {
-                error.textContent = 'Vui lòng nhập chọn môn học!';
+            if (id_subject === undefined || id_subject === 'undefine' || id_subject.trim() === '') {                
+                error.textContent = 'Vui lòng chọn môn học!';
                 return;
-            }
-            if (class_code.trim() == '') {
-                error.textContent = 'Vui lòng nhập mã học phần!';
-                return;
-            }
-            if (date_week.trim() == '') {
-                error.textContent = 'Vui lòng chọn thứ trong tuần!';
-                return;
-            }
+            }            
             if (Period_from.trim() == '') {
                 error.textContent = 'Vui lòng chọn tiết bắt đầu!';
                 return;
@@ -273,6 +264,15 @@ function get_subject_name() {
                 error.textContent = 'Vui lòng chọn ngày kết thúc học!';
                 return;
             }
+            if (class_code.trim() == '') {
+                error.textContent = 'Vui lòng nhập mã ;lớp học!';
+                return;
+            }
+            if (date_week.trim() == '') {
+                error.textContent = 'Vui lòng chọn thứ trong tuần!';
+                return;
+            }
+
             if (Learning_facility.trim() == '') {
                 error.textContent = 'Vui lòng chọn cơ sở học tập!';
                 return;
@@ -289,11 +289,6 @@ function get_subject_name() {
                 error.textContent = 'Vui lòng chọn hình thức môn học!';
                 return;
             }
-            if (admin_code.trim() == '') {
-                error.textContent = 'Vui lòng nhập mã admin!';
-                return;
-            }
-    
             if (type_class === "TH") {
                 if (Team.trim() == '') {
                     error.textContent = 'Vui lòng nhập nhóm thực hành!';
@@ -316,7 +311,10 @@ function get_subject_name() {
                     return;
                 }
             }
-    
+            if (admin_code.trim() == '') {
+                error.textContent = 'Vui lòng nhập mã admin!';
+                return;
+            }
             const admin_code_Regex = 20153;    
             if (admin_code != admin_code_Regex) {
                 error.textContent = 'Sai mã Admin, vui lòng nhập lại!';
