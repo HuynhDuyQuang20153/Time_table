@@ -108,6 +108,8 @@ function get_subject_name() {
             });
 
         } else {
+            console.log(result.data[0]);
+            
             document.getElementById('error_notify_edit_data').textContent = '';
             document.getElementById('Period_from').value = result.data[0].period_from;
             document.getElementById('Period_to').value = result.data[0].period_to;
@@ -143,15 +145,15 @@ function get_subject_name() {
 
     document.getElementById('subject').addEventListener('change', function() {
         const selectedOption = this.selectedOptions[0]; // Lấy option đang chọn
-        const id_subject = selectedOption.getAttribute('data-subject-id'); 
-        document.getElementById('subject_id').value = id_subject; 
+        const schedule_id = selectedOption.getAttribute('data-schedule-id'); 
+        document.getElementById('subject_id').value = selectedOption.getAttribute('data-subject-id'); 
         document.getElementById('class_id').value = selectedOption.getAttribute('data-class-id'); 
         document.getElementById('teacher_id').value = selectedOption.getAttribute('data-teacher-id'); 
-        document.getElementById('schedule_id').value = selectedOption.getAttribute('data-schedule-id'); 
+        document.getElementById('schedule_id').value = schedule_id; 
 
-        if (id_subject) {
+        if (schedule_id) {
             // Gọi API để lấy chi tiết môn học
-            fetch(`/get-data-details?id_subject=${id_subject}`)
+            fetch(`/get-data-details?schedule_id=${schedule_id}`)
                 .then(response => response.json())
                 .then(result => {    
                     updateFormFields(result)

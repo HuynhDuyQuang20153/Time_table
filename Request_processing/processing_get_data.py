@@ -43,7 +43,7 @@ def filter_items_for_week(items, week_offset):
     return filtered_items
 
 
-def get_full_schedule(id_subject):
+def get_full_schedule(schedule_id):
     schedules = (
         Schedule.query
         .join(Class, Schedule.id_class == Class.id_class)  
@@ -55,9 +55,9 @@ def get_full_schedule(id_subject):
         )
     )
 
-    # Nếu id_subject là số hợp lệ, thực hiện lọc
-    if isinstance(id_subject, int):
-        schedules = schedules.filter(Subject.id_subject == id_subject)
+    # Nếu schedule_id là số hợp lệ, thực hiện lọc
+    if isinstance(schedule_id, int):
+        schedules = schedules.filter(Schedule.id_schedule == schedule_id)
 
     schedules.all()
 
@@ -108,8 +108,8 @@ def get_subject_name():
     })  
 
 
-def get_data_details(id_subject):
-    data = get_full_schedule(id_subject)
+def get_data_details(schedule_id):
+    data = get_full_schedule(schedule_id)
     return jsonify({
         'data': data
     }) 

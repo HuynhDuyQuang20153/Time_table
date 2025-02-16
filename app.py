@@ -157,13 +157,13 @@ def get_delete_data():
 @app.route('/get-data-details', methods=['GET'])
 def get_data_details():
     try:    
-        id_subject = request.args.get('id_subject', None)  
+        schedule_id = request.args.get('schedule_id', None)  
         try:
-            id_subject = int(id_subject)
+            schedule_id = int(schedule_id)
         except ValueError:
-            id_subject = None   
+            schedule_id = None   
 
-        return processing_get_data.get_data_details(id_subject)
+        return processing_get_data.get_data_details(schedule_id)
     
     except Exception as e:
         db.session.rollback()  
