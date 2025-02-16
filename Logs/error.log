@@ -972,3 +972,25 @@
 2025-02-16 20:41:33,651 - INFO - 127.0.0.1 - - [16/Feb/2025 20:41:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
 2025-02-16 20:41:33,665 - INFO - 127.0.0.1 - - [16/Feb/2025 20:41:33] "[36mGET /static/js/add_data.js HTTP/1.1[0m" 304 -
 2025-02-16 20:41:33,686 - INFO - 127.0.0.1 - - [16/Feb/2025 20:41:33] "[36mGET /static/image/transparent-pattern-square-4.png HTTP/1.1[0m" 304 -
+2025-02-16 20:44:17,127 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.24:5000
+2025-02-16 20:44:17,128 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-16 20:44:20,430 - INFO - 127.0.0.1 - - [16/Feb/2025 20:44:20] "GET /new_timetable HTTP/1.1" 200 -
+2025-02-16 20:44:20,512 - INFO - 127.0.0.1 - - [16/Feb/2025 20:44:20] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-16 20:44:20,520 - INFO - 127.0.0.1 - - [16/Feb/2025 20:44:20] "GET /static/js/add_data.js HTTP/1.1" 200 -
+2025-02-16 20:44:20,642 - INFO - 127.0.0.1 - - [16/Feb/2025 20:44:20] "GET /static/image/transparent-pattern-square-4.png HTTP/1.1" 200 -
+2025-02-16 20:44:20,741 - INFO - 127.0.0.1 - - [16/Feb/2025 20:44:20] "GET /static/image/Icon-UEF.webp HTTP/1.1" 200 -
+2025-02-16 20:44:22,062 - INFO - 127.0.0.1 - - [16/Feb/2025 20:44:22] "GET / HTTP/1.1" 200 -
+2025-02-16 20:44:22,083 - INFO - 127.0.0.1 - - [16/Feb/2025 20:44:22] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-16 20:44:22,086 - INFO - 127.0.0.1 - - [16/Feb/2025 20:44:22] "GET /static/js/next_week.js HTTP/1.1" 200 -
+2025-02-16 20:44:22,150 - INFO - 127.0.0.1 - - [16/Feb/2025 20:44:22] "GET /next-week?week_offset=0 HTTP/1.1" 200 -
+2025-02-16 20:44:23,430 - INFO - 127.0.0.1 - - [16/Feb/2025 20:44:23] "GET /edit_timetable HTTP/1.1" 200 -
+2025-02-16 20:44:23,458 - INFO - 127.0.0.1 - - [16/Feb/2025 20:44:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-16 20:44:23,468 - INFO - 127.0.0.1 - - [16/Feb/2025 20:44:23] "GET /static/js/get_data.js HTTP/1.1" 200 -
+2025-02-16 20:44:23,484 - INFO - 127.0.0.1 - - [16/Feb/2025 20:44:23] "GET /get-data HTTP/1.1" 200 -
+2025-02-16 20:44:24,825 - INFO - 127.0.0.1 - - [16/Feb/2025 20:44:24] "GET / HTTP/1.1" 200 -
+2025-02-16 20:44:24,846 - INFO - 127.0.0.1 - - [16/Feb/2025 20:44:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-16 20:44:24,852 - INFO - 127.0.0.1 - - [16/Feb/2025 20:44:24] "[36mGET /static/js/next_week.js HTTP/1.1[0m" 304 -
+2025-02-16 20:44:24,865 - INFO - 127.0.0.1 - - [16/Feb/2025 20:44:24] "GET /next-week?week_offset=0 HTTP/1.1" 200 -
