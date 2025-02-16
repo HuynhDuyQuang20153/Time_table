@@ -140,16 +140,37 @@ def get_subject_name():
 
 # ---------------- XÓA DATABASE ------------------ #
 @app.route('/delete-db')
-def get_delete_data():
+def delete_db():
     try:    
         return processing_delete_data.delete_db()
     
     except Exception as e:
         db.session.rollback()  
-        print(f"Error occurred at get_delete_data(): {e}")
-        logging.error("Error occurred at get_delete_data()", exc_info=True)
-        return jsonify({'error': 'Đã xảy ra lỗi khi tại get_delete_data()!'}), 500
+        print(f"Error occurred at delete_db(): {e}")
+        logging.error("Error occurred at delete_db()", exc_info=True)
+        return jsonify({'error': 'Đã xảy ra lỗi khi tại delete_db()!'}), 500
     
+
+
+
+# ---------------- XÓA LICH HỌC ------------------ #
+@app.route('/delete-schedule', methods=['GET'])
+def delete_schedule():
+    try:    
+        class_id = request.args.get('class_id')  
+        if class_id is None or class_id.lower() == "null":
+            class_id = None
+        else:
+            class_id = int(class_id)
+
+        return processing_delete_data.delete_schedule(class_id)
+    
+    except Exception as e:
+        db.session.rollback()  
+        print(f"Error occurred at delete_schedule(): {e}")
+        logging.error("Error occurred at delete_schedule()", exc_info=True)
+        return jsonify({'error': 'Đã xảy ra lỗi khi tại delete_schedule()!'}), 500
+
    
 
 

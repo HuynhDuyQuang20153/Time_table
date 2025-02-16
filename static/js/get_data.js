@@ -1,1 +1,344 @@
-var a1_0x285610=a1_0x172d;function a1_0x2c2d(){var _0x3bf929=['getAttribute','4184496JsanyT','forEach','catch','period_from','undefine','Không\x20có\x20phần\x20tử\x20id=show_popup_delete\x20','date_week','data-class-id','Không\x20có\x20phần\x20tử\x20id=btn_close_confirm\x20','reset','preventDefault','room','Vui\x20lòng\x20chọn\x20thứ\x20trong\x20tuần!','add','learning_software','Vui\x20lòng\x20nhập\x20tên\x20ứng\x20dụng\x20học\x20online!','success','suspension_status','classList','Error\x20fetching\x20subject\x20details:','popup-confirm-delete','6117894fShJtT','764709AuKZvW','input[name=\x22type_class\x22]:checked','json','code_online','/get-data','subject_name','value','DOMContentLoaded','input[name=\x22type_class\x22][value=\x22','1196978spIBSg','readyState','data-teacher-id','message','Date_end','textContent','trim','status','log','option','querySelectorAll','4157573oZLilb','class_code','onreadystatechange','2JguRyJ','Vui\x20lòng\x20nhập\x20nhóm\x20thi!','admin_code','Vui\x20lòng\x20chọn\x20tiết\x20bắt\x20đầu!','submit','id_class','addEventListener','Vui\x20lòng\x20nhập\x20nhóm\x20thực\x20hành!','target','Teacher','date_end','createElement','data-schedule-id','active','data-subject-id','date_start','team','POST','Room','Vui\x20lòng\x20chọn\x20ngày\x20kết\x20thúc\x20học!','/get-data-details?schedule_id=','input[name=\x22suspension\x22][value=\x22','setAttribute','error_notify_edit_data','reload','schedule_id','id_schedule','delete_info_from','open','then','input[name=\x22suspension\x22]','error','parse','click','change','checked','Vui\x20lòng\x20nhập\x20chọn\x20môn\x20học!','<option\x20value=\x22undefine\x22>Chọn\x20môn\x20học</option>','Error\x20fetching\x20subjects:','Date_start','teacher_id','period_to','[data-refresh-button]','type_class','5535520ozdRjc','Vui\x20lòng\x20chọn\x20hình\x20thức\x20môn\x20học!','Vui\x20lòng\x20chọn\x20tiết\x20kết\x20thúc!','data','Learning_facility','Team','selectedOptions','Vui\x20lòng\x20nhập\x20mã\x20admin!','Code_online','submit_form_edit_data','Không\x20có\x20phần\x20tử\x20id=delete_info_from\x20','Period_to','5392816VkjvFb','responseText','subject','subject_id','send','Learning_software','remove','Vui\x20lòng\x20chọn\x20ngày\x20bắt\x20đầu\x20học!','Period_from','querySelector','innerHTML','getElementById'];a1_0x2c2d=function(){return _0x3bf929;};return a1_0x2c2d();}function a1_0x172d(_0x46b90d,_0x2aeab1){var _0x2c2d5e=a1_0x2c2d();return a1_0x172d=function(_0x172db8,_0x2b6df3){_0x172db8=_0x172db8-0x14f;var _0xb0222c=_0x2c2d5e[_0x172db8];return _0xb0222c;},a1_0x172d(_0x46b90d,_0x2aeab1);}(function(_0x22b2a8,_0x2b84be){var _0x5ae67d=a1_0x172d,_0x4b8451=_0x22b2a8();while(!![]){try{var _0x924cbf=-parseInt(_0x5ae67d(0x15b))/0x1*(parseInt(_0x5ae67d(0x1bf))/0x2)+-parseInt(_0x5ae67d(0x1b6))/0x3+parseInt(_0x5ae67d(0x1a0))/0x4+-parseInt(_0x5ae67d(0x187))/0x5+parseInt(_0x5ae67d(0x1b5))/0x6+parseInt(_0x5ae67d(0x158))/0x7+parseInt(_0x5ae67d(0x193))/0x8;if(_0x924cbf===_0x2b84be)break;else _0x4b8451['push'](_0x4b8451['shift']());}catch(_0xb5335a){_0x4b8451['push'](_0x4b8451['shift']());}}}(a1_0x2c2d,0xbd2ad),document['querySelectorAll'](a1_0x285610(0x185))[a1_0x285610(0x1a1)](_0x385fc2=>{var _0x4e9fa4=a1_0x285610;_0x385fc2[_0x4e9fa4(0x161)](_0x4e9fa4(0x17c),function(){var _0x45ea66=_0x4e9fa4;location[_0x45ea66(0x173)](!![]);});}),get_subject_name());function get_subject_name(){var _0x5add3d=a1_0x285610;fetch(_0x5add3d(0x1ba))[_0x5add3d(0x178)](_0x32e190=>_0x32e190[_0x5add3d(0x1b8)]())[_0x5add3d(0x178)](_0x5dec01=>{var _0x40acfb=_0x5add3d,_0x34bc46=_0x5dec01[_0x40acfb(0x18a)];const _0x4f8f2d=document['getElementById'](_0x40acfb(0x195));_0x4f8f2d[_0x40acfb(0x19d)]=_0x40acfb(0x180),_0x34bc46['forEach'](_0x534946=>{var _0x4f33d6=_0x40acfb;const _0x408a9c=document[_0x4f33d6(0x166)](_0x4f33d6(0x156));_0x408a9c[_0x4f33d6(0x1bc)]=_0x534946[_0x4f33d6(0x1bb)],_0x408a9c[_0x4f33d6(0x152)]=_0x534946[_0x4f33d6(0x1bb)],_0x408a9c['setAttribute'](_0x4f33d6(0x169),_0x534946['id_subject']),_0x408a9c[_0x4f33d6(0x171)](_0x4f33d6(0x1a7),_0x534946[_0x4f33d6(0x160)]),_0x408a9c['setAttribute'](_0x4f33d6(0x14f),_0x534946['id_teacher']),_0x408a9c[_0x4f33d6(0x171)](_0x4f33d6(0x167),_0x534946[_0x4f33d6(0x175)]),_0x4f8f2d['appendChild'](_0x408a9c);});})[_0x5add3d(0x1a2)](_0x3d8b8c=>console[_0x5add3d(0x17a)](_0x5add3d(0x181),_0x3d8b8c));}var delete_infor_form=document['getElementById'](a1_0x285610(0x176));delete_infor_form?delete_infor_form[a1_0x285610(0x161)](a1_0x285610(0x17c),function(_0x422cb6){var _0x196040=a1_0x285610;document['getElementById']('error_notify_edit_data')[_0x196040(0x152)]='',updateFormFields(null);}):console[a1_0x285610(0x155)](a1_0x285610(0x191));var show_popup=document[a1_0x285610(0x19e)]('show_popup_delete');show_popup?show_popup[a1_0x285610(0x161)]('click',function(_0x2142a1){var _0x42eeef=a1_0x285610,_0x57e80e=document[_0x42eeef(0x19e)](_0x42eeef(0x1b4));_0x57e80e[_0x42eeef(0x1b2)][_0x42eeef(0x1ad)](_0x42eeef(0x168));}):console[a1_0x285610(0x155)](a1_0x285610(0x1a5));var close_popup=document['getElementById']('btn_close_confirm');close_popup?close_popup['addEventListener'](a1_0x285610(0x17c),function(_0x57924d){var _0x2a0001=a1_0x285610,_0x302e69=document[_0x2a0001(0x19e)]('popup-confirm-delete');_0x302e69['classList'][_0x2a0001(0x199)]('active');}):console['log'](a1_0x285610(0x1a8));function delete_all_data_json(){var _0x111c2b=a1_0x285610;fetch('/delete-db')[_0x111c2b(0x178)](_0x273148=>_0x273148[_0x111c2b(0x1b8)]())[_0x111c2b(0x178)](_0x5b750f=>{var _0x1a54ce=_0x111c2b,_0x43f35a=document[_0x1a54ce(0x19e)](_0x1a54ce(0x172));if(_0x5b750f[_0x1a54ce(0x154)]=_0x1a54ce(0x1b0)){_0x43f35a[_0x1a54ce(0x152)]=_0x5b750f[_0x1a54ce(0x150)];var _0xd29e92=document[_0x1a54ce(0x19e)](_0x1a54ce(0x1b4));_0xd29e92[_0x1a54ce(0x1b2)]['remove'](_0x1a54ce(0x168)),get_subject_name(),updateFormFields(null);}else _0x43f35a[_0x1a54ce(0x152)]=_0x5b750f[_0x1a54ce(0x150)];})[_0x111c2b(0x1a2)](_0x369059=>console['error'](_0x111c2b(0x181),_0x369059));}function updateFormFields(_0x129c1f){var _0x323055=a1_0x285610;if(!_0x129c1f||_0x129c1f['length']===0x0){document[_0x323055(0x19e)](_0x323055(0x19b))[_0x323055(0x1bc)]='',document['getElementById']('Period_to')[_0x323055(0x1bc)]='',document[_0x323055(0x19e)](_0x323055(0x182))[_0x323055(0x1bc)]='',document['getElementById']('Date_end')[_0x323055(0x1bc)]='',document[_0x323055(0x19e)](_0x323055(0x195))['value']=_0x323055(0x1a4),document[_0x323055(0x19e)](_0x323055(0x159))[_0x323055(0x1bc)]='',document[_0x323055(0x19e)]('date_week')[_0x323055(0x1bc)]='',document['getElementById'](_0x323055(0x18b))[_0x323055(0x1bc)]='',document[_0x323055(0x19e)]('Room')[_0x323055(0x1bc)]='',document[_0x323055(0x19e)](_0x323055(0x164))[_0x323055(0x1bc)]='',document[_0x323055(0x19e)](_0x323055(0x18c))[_0x323055(0x1bc)]='',document[_0x323055(0x19e)](_0x323055(0x18f))[_0x323055(0x1bc)]='',document[_0x323055(0x19e)](_0x323055(0x198))[_0x323055(0x1bc)]='';let _0x5b7382=document['querySelector'](_0x323055(0x1b7));if(_0x5b7382)_0x5b7382[_0x323055(0x17e)]=![];document[_0x323055(0x157)](_0x323055(0x179))[_0x323055(0x1a1)](_0x555dce=>{var _0x5c7a99=_0x323055;_0x555dce[_0x5c7a99(0x17e)]=![];});}else{console[_0x323055(0x155)](_0x129c1f[_0x323055(0x18a)][0x0]),document[_0x323055(0x19e)](_0x323055(0x172))[_0x323055(0x152)]='',document[_0x323055(0x19e)](_0x323055(0x19b))[_0x323055(0x1bc)]=_0x129c1f[_0x323055(0x18a)][0x0][_0x323055(0x1a3)],document[_0x323055(0x19e)](_0x323055(0x192))['value']=_0x129c1f[_0x323055(0x18a)][0x0][_0x323055(0x184)],document['getElementById'](_0x323055(0x182))['value']=_0x129c1f[_0x323055(0x18a)][0x0][_0x323055(0x16a)],document['getElementById'](_0x323055(0x151))[_0x323055(0x1bc)]=_0x129c1f[_0x323055(0x18a)][0x0][_0x323055(0x165)],document['getElementById'](_0x323055(0x159))[_0x323055(0x1bc)]=_0x129c1f[_0x323055(0x18a)][0x0][_0x323055(0x159)],document[_0x323055(0x19e)](_0x323055(0x1a6))[_0x323055(0x1bc)]=_0x129c1f[_0x323055(0x18a)][0x0][_0x323055(0x1a6)],document[_0x323055(0x19e)](_0x323055(0x18b))['value']=_0x129c1f[_0x323055(0x18a)][0x0]['learning_facility'],document['getElementById'](_0x323055(0x16d))['value']=_0x129c1f[_0x323055(0x18a)][0x0][_0x323055(0x1ab)],document[_0x323055(0x19e)]('Teacher')[_0x323055(0x1bc)]=_0x129c1f[_0x323055(0x18a)][0x0]['teacher_name'],document[_0x323055(0x19c)](_0x323055(0x1be)+_0x129c1f[_0x323055(0x18a)][0x0][_0x323055(0x186)]+'\x22]')['checked']=!![],document[_0x323055(0x19e)](_0x323055(0x18c))[_0x323055(0x1bc)]=_0x129c1f['data'][0x0][_0x323055(0x16b)],document[_0x323055(0x19e)](_0x323055(0x18f))['value']=_0x129c1f['data'][0x0][_0x323055(0x1b9)],document[_0x323055(0x19e)](_0x323055(0x198))[_0x323055(0x1bc)]=_0x129c1f['data'][0x0][_0x323055(0x1ae)];if(_0x129c1f[_0x323055(0x18a)][0x0][_0x323055(0x1b1)]!==''){const _0x34de62=document[_0x323055(0x19c)](_0x323055(0x170)+_0x129c1f[_0x323055(0x18a)][0x0][_0x323055(0x1b1)]+'\x22]');_0x34de62&&(_0x34de62[_0x323055(0x17e)]=!![]);}else document['querySelectorAll'](_0x323055(0x179))['forEach'](_0x930d67=>{var _0x5c6717=_0x323055;_0x930d67[_0x5c6717(0x17e)]=![];});}}document['getElementById'](a1_0x285610(0x195))[a1_0x285610(0x161)](a1_0x285610(0x17d),function(){var _0x15577d=a1_0x285610;const _0x37fd8d=this[_0x15577d(0x18d)][0x0],_0xd7beb=_0x37fd8d[_0x15577d(0x19f)]('data-schedule-id');document[_0x15577d(0x19e)](_0x15577d(0x196))[_0x15577d(0x1bc)]=_0x37fd8d['getAttribute']('data-subject-id'),document[_0x15577d(0x19e)]('class_id')[_0x15577d(0x1bc)]=_0x37fd8d['getAttribute'](_0x15577d(0x1a7)),document[_0x15577d(0x19e)](_0x15577d(0x183))[_0x15577d(0x1bc)]=_0x37fd8d[_0x15577d(0x19f)]('data-teacher-id'),document['getElementById'](_0x15577d(0x174))[_0x15577d(0x1bc)]=_0xd7beb,_0xd7beb?fetch(_0x15577d(0x16f)+_0xd7beb)[_0x15577d(0x178)](_0x4984f7=>_0x4984f7[_0x15577d(0x1b8)]())[_0x15577d(0x178)](_0x5581c0=>{updateFormFields(_0x5581c0);})[_0x15577d(0x1a2)](_0x2433c2=>console[_0x15577d(0x17a)](_0x15577d(0x1b3),_0x2433c2)):updateFormFields(null);});function getSelectedRadioValue(){var _0x50179d=a1_0x285610;const _0x46c726=document[_0x50179d(0x157)]('input[name=\x22type_class\x22]');for(const _0x1d80da of _0x46c726){if(_0x1d80da[_0x50179d(0x17e)])return _0x1d80da[_0x50179d(0x1bc)];}return null;}document[a1_0x285610(0x161)](a1_0x285610(0x1bd),function(){var _0x33772b=a1_0x285610;const _0x25c24f=document[_0x33772b(0x19e)](_0x33772b(0x190));_0x25c24f[_0x33772b(0x161)](_0x33772b(0x15f),function(_0x199b80){var _0xda10c8=_0x33772b;_0x199b80[_0xda10c8(0x1aa)]();const _0x567fd3=_0x199b80[_0xda10c8(0x163)];var _0x360513=document[_0xda10c8(0x19e)](_0xda10c8(0x195))['value'],_0x54f015=document[_0xda10c8(0x19e)](_0xda10c8(0x159))[_0xda10c8(0x1bc)],_0x2e59e7=document[_0xda10c8(0x19e)](_0xda10c8(0x1a6))[_0xda10c8(0x1bc)],_0x1488d7=document[_0xda10c8(0x19e)]('Period_from')[_0xda10c8(0x1bc)],_0x59fc24=document[_0xda10c8(0x19e)](_0xda10c8(0x192))['value'],_0x22b895=document[_0xda10c8(0x19e)](_0xda10c8(0x182))[_0xda10c8(0x1bc)],_0x172d03=document['getElementById'](_0xda10c8(0x151))['value'],_0x3cd868=document['getElementById']('Learning_facility')[_0xda10c8(0x1bc)],_0x205595=document[_0xda10c8(0x19e)]('Room')['value'],_0xb234d3=document[_0xda10c8(0x19e)]('Teacher')[_0xda10c8(0x1bc)],_0x52f946=document[_0xda10c8(0x19e)](_0xda10c8(0x18c))['value'],_0x503093=document[_0xda10c8(0x19e)](_0xda10c8(0x18f))[_0xda10c8(0x1bc)],_0x5b05f4=document[_0xda10c8(0x19e)](_0xda10c8(0x198))[_0xda10c8(0x1bc)],_0x17747a=document[_0xda10c8(0x19e)](_0xda10c8(0x15d))['value'];const _0x2f0f36=getSelectedRadioValue();var _0x369e85=document['getElementById'](_0xda10c8(0x172));if(_0x360513[_0xda10c8(0x153)]()==''){_0x369e85[_0xda10c8(0x152)]=_0xda10c8(0x17f);return;}if(_0x54f015[_0xda10c8(0x153)]()==''){_0x369e85[_0xda10c8(0x152)]='Vui\x20lòng\x20nhập\x20mã\x20học\x20phần!';return;}if(_0x2e59e7[_0xda10c8(0x153)]()==''){_0x369e85[_0xda10c8(0x152)]=_0xda10c8(0x1ac);return;}if(_0x1488d7[_0xda10c8(0x153)]()==''){_0x369e85[_0xda10c8(0x152)]=_0xda10c8(0x15e);return;}if(_0x59fc24[_0xda10c8(0x153)]()==''){_0x369e85[_0xda10c8(0x152)]=_0xda10c8(0x189);return;}if(_0x22b895[_0xda10c8(0x153)]()==''){_0x369e85[_0xda10c8(0x152)]=_0xda10c8(0x19a);return;}if(_0x172d03[_0xda10c8(0x153)]()==''){_0x369e85[_0xda10c8(0x152)]=_0xda10c8(0x16e);return;}if(_0x3cd868[_0xda10c8(0x153)]()==''){_0x369e85[_0xda10c8(0x152)]='Vui\x20lòng\x20chọn\x20cơ\x20sở\x20học\x20tập!';return;}if(_0x205595[_0xda10c8(0x153)]()==''){_0x369e85[_0xda10c8(0x152)]='Vui\x20lòng\x20nhập\x20phòng\x20học!';return;}if(_0xb234d3[_0xda10c8(0x153)]()==''){_0x369e85['textContent']='Vui\x20lòng\x20nhập\x20tên\x20giảng\x20viên!';return;}if(_0x2f0f36==null){_0x369e85[_0xda10c8(0x152)]=_0xda10c8(0x188);return;}if(_0x17747a[_0xda10c8(0x153)]()==''){_0x369e85['textContent']=_0xda10c8(0x18e);return;}if(_0x2f0f36==='TH'){if(_0x52f946[_0xda10c8(0x153)]()==''){_0x369e85[_0xda10c8(0x152)]=_0xda10c8(0x162);return;}}else{if(_0x2f0f36==='EX'){if(_0x52f946[_0xda10c8(0x153)]()==''){_0x369e85['textContent']=_0xda10c8(0x15c);return;}}else{if(_0x2f0f36==='ON'){if(_0x503093[_0xda10c8(0x153)]()==''){_0x369e85[_0xda10c8(0x152)]='Vui\x20lòng\x20nhập\x20mã\x20phòng!';return;}if(_0x5b05f4['trim']()==''){_0x369e85['textContent']=_0xda10c8(0x1af);return;}}}}const _0x44936d=0x4eb9;if(_0x17747a!=_0x44936d){_0x369e85[_0xda10c8(0x152)]='Sai\x20mã\x20Admin,\x20vui\x20lòng\x20nhập\x20lại!';return;}const _0x2fcfa4=new FormData(_0x567fd3),_0x465a6d=new XMLHttpRequest();_0x465a6d[_0xda10c8(0x177)](_0xda10c8(0x16c),'/change-data',!![]),_0x465a6d[_0xda10c8(0x15a)]=function(){var _0x329906=_0xda10c8;if(_0x465a6d[_0x329906(0x1c0)]===0x4&&_0x465a6d[_0x329906(0x154)]===0xc8){var _0x28944e=JSON[_0x329906(0x17b)](_0x465a6d[_0x329906(0x194)]);_0x28944e[_0x329906(0x154)]=='success'?(_0x369e85[_0x329906(0x152)]=_0x28944e[_0x329906(0x150)],_0x567fd3[_0x329906(0x1a9)]()):_0x369e85[_0x329906(0x152)]=_0x28944e[_0x329906(0x150)];}},_0x465a6d[_0xda10c8(0x197)](_0x2fcfa4);});});
+// "refesh" - Nút refresh có data-refresh-button
+document.querySelectorAll('[data-refresh-button]').forEach(button => {
+    button.addEventListener('click', function () {
+        location.reload(true); // Thực hiện reload bỏ qua cache
+    });
+});
+
+
+// Gọi API để trả về danh sách các môn học
+get_subject_name()
+
+function get_subject_name() {
+    fetch('/get-data')
+    .then(response => response.json())
+    .then(result => {
+        var data = result.data;
+        const subjectSelect = document.getElementById('subject');
+        subjectSelect.innerHTML = `<option value="undefine">Chọn môn học</option>`; 
+        data.forEach(item => {
+            const option = document.createElement('option');
+            option.value = item.subject_name;
+            option.textContent = item.subject_name;
+            option.setAttribute('data-subject-id', item.id_subject);
+            option.setAttribute('data-class-id', item.id_class);
+            option.setAttribute('data-teacher-id', item.id_teacher);
+            option.setAttribute('data-schedule-id', item.id_schedule);
+            subjectSelect.appendChild(option);
+        });
+    })
+    .catch(error => console.error('Error fetching subjects:', error));    
+}
+
+
+
+    var delete_infor_form = document.getElementById('delete_info_from');
+    if(delete_infor_form){
+        delete_infor_form.addEventListener('click', function(event) {
+            document.getElementById('error_notify_edit_data').textContent = '';
+            updateFormFields(null);
+        });
+    } else {
+        console.log("Không có phần tử id=delete_info_from ");
+    }
+
+
+
+
+    var show_popup = document.getElementById('show_popup_delete');
+    if(show_popup){
+        show_popup.addEventListener('click', function(event) {
+            var popup = document.getElementById('popup-confirm-delete');
+            popup.classList.add('active');
+            document.getElementById('title_popup').innerHTML = '<span class="title_popup">Xóa toàn bộ Database?</span>';
+        });
+    } else {
+        console.log("Không có phần tử id=show_popup_delete ");
+    }
+
+
+    var show_popup_delete_schedule = document.getElementById('delete_schedule');
+    if(show_popup_delete_schedule){
+        show_popup_delete_schedule.addEventListener('click', function(event) {
+            var popup = document.getElementById('popup-confirm-delete');
+            popup.classList.add('active');
+            document.getElementById('title_popup').innerHTML = '<span class="title_popup">Xóa lịch học này?</span>';
+        });
+    } else {
+        console.log("Không có phần tử id=delete_schedule ");
+    }
+    
+    var close_popup = document.getElementById('btn_close_confirm');
+    if(close_popup){
+        close_popup.addEventListener('click', function(event) {
+            var popup = document.getElementById('popup-confirm-delete');
+            popup.classList.remove('active');
+        });
+    } else {
+        console.log("Không có phần tử id=btn_close_confirm ");
+    }
+    
+    
+    function delete_all_data_json() {
+        fetch('/delete-db')
+        .then(response => response.json())
+        .then(result => {
+            var error = document.getElementById('error_notify_edit_data');
+            if(result.status = "success"){
+                error.textContent = result.message;
+                var popup = document.getElementById('popup-confirm-delete');
+                popup.classList.remove('active');
+                get_subject_name();
+                updateFormFields(null);
+
+            } else {
+                error.textContent = result.message;
+            }
+        })
+        .catch(error => console.error('Error fetching subjects:', error));
+    }
+
+
+
+    function delete_schedule() {
+        const accept_btn = document.getElementById('accept_delete_all_data_json');
+        const schedule_id = accept_btn.getAttribute('data-schedule-id');
+        const class_id = accept_btn.getAttribute('data-class-id');
+        
+        fetch(`/delete-schedule?class_id=${class_id}`)
+        .then(response => response.json())
+        .then(result => {
+            var error = document.getElementById('error_notify_edit_data');
+            if(result.status = "success"){
+                error.textContent = result.message;
+                var popup = document.getElementById('popup-confirm-delete');
+                popup.classList.remove('active');
+                get_subject_name();
+                updateFormFields(null);
+
+            } else {
+                error.textContent = result.message;
+            }
+        })
+        .catch(error => console.error('Error fetching subjects:', error));
+    }
+    
+
+    function updateFormFields(result){
+        if (!result || result.length === 0) {
+            document.getElementById('Period_from').value = '';
+            document.getElementById('Period_to').value = '';
+            document.getElementById('Date_start').value = '';
+            document.getElementById('Date_end').value = '';
+            document.getElementById('subject').value = 'undefine';
+            document.getElementById('class_code').value = '';
+            document.getElementById('date_week').value = '';
+            document.getElementById('Learning_facility').value = '';
+            document.getElementById('Room').value = '';
+            document.getElementById('Teacher').value = '';
+            document.getElementById('Team').value = '';
+            document.getElementById('Code_online').value = '';
+            document.getElementById('Learning_software').value = '';
+            let selectedTypeClass = document.querySelector(`input[name="type_class"]:checked`);
+            if (selectedTypeClass) selectedTypeClass.checked = false;
+            document.querySelectorAll('input[name="suspension"]').forEach(checkbox => {
+                checkbox.checked = false;
+            });
+
+        } else {
+
+            document.getElementById('error_notify_edit_data').textContent = '';
+            document.getElementById('Period_from').value = result.data[0].period_from;
+            document.getElementById('Period_to').value = result.data[0].period_to;
+            document.getElementById('Date_start').value = result.data[0].date_start;
+            document.getElementById('Date_end').value = result.data[0].date_end;
+            document.getElementById('class_code').value = result.data[0].class_code;
+            document.getElementById('date_week').value = result.data[0].date_week;
+            document.getElementById('Learning_facility').value = result.data[0].learning_facility;
+            document.getElementById('Room').value = result.data[0].room;
+            document.getElementById('Teacher').value = result.data[0].teacher_name;
+            document.querySelector(`input[name="type_class"][value="${result.data[0].type_class}"]`).checked = true;
+            document.getElementById('Team').value = result.data[0].team;
+            document.getElementById('Code_online').value = result.data[0].code_online;
+            document.getElementById('Learning_software').value = result.data[0].learning_software;
+            if (result.data[0].suspension_status !== "") {
+                const checkbox = document.querySelector(`input[name="suspension"][value="${result.data[0].suspension_status}"]`);
+                
+                if (checkbox) {
+                    checkbox.checked = true;  // Đánh dấu checkbox nếu tìm thấy
+                }
+            } else {
+                // Nếu giá trị là chuỗi rỗng, bỏ chọn tất cả checkbox
+                document.querySelectorAll('input[name="suspension"]').forEach(checkbox => {
+                    checkbox.checked = false;
+                });
+            }
+
+            const button_accept = document.getElementById('accept_delete_all_data_json');
+            button_accept.setAttribute('data-schedule-id', result.data[0].id_schedule);
+            button_accept.setAttribute('data-class-id', result.data[0].id_class);
+        }
+    }
+
+
+
+
+
+    document.getElementById('subject').addEventListener('change', function() {
+        const selectedOption = this.selectedOptions[0]; // Lấy option đang chọn
+        const schedule_id = selectedOption.getAttribute('data-schedule-id'); 
+        document.getElementById('subject_id').value = selectedOption.getAttribute('data-subject-id'); 
+        document.getElementById('class_id').value = selectedOption.getAttribute('data-class-id'); 
+        document.getElementById('teacher_id').value = selectedOption.getAttribute('data-teacher-id'); 
+        document.getElementById('schedule_id').value = schedule_id; 
+
+        if (schedule_id) {
+            // Gọi API để lấy chi tiết môn học
+            fetch(`/get-data-details?schedule_id=${schedule_id}`)
+                .then(response => response.json())
+                .then(result => {    
+                    updateFormFields(result)
+                })
+                .catch(error => console.error('Error fetching subject details:', error));
+
+        } else {
+            updateFormFields(null)
+        }
+    });
+    
+
+
+
+
+
+
+    function getSelectedRadioValue() {
+        const radios = document.querySelectorAll('input[name="type_class"]');
+        for (const radio of radios) {
+            if (radio.checked) {
+                return radio.value; 
+            }
+        }
+        return null; 
+    }
+    
+    document.addEventListener('DOMContentLoaded', function() {
+        const check_value_form = document.getElementById("submit_form_edit_data");
+        check_value_form.addEventListener('submit', function(event) {        
+            event.preventDefault();
+    
+            const form = event.target;
+            var id_subject = document.getElementById('subject').value;
+            var class_code = document.getElementById('class_code').value;
+            var date_week = document.getElementById('date_week').value;
+            var Period_from = document.getElementById('Period_from').value;
+            var Period_to = document.getElementById('Period_to').value;
+            var Date_start = document.getElementById('Date_start').value;
+            var Date_end = document.getElementById('Date_end').value;
+            var Learning_facility = document.getElementById('Learning_facility').value;
+            var Room = document.getElementById('Room').value;
+            var Teacher = document.getElementById('Teacher').value;
+            var Team = document.getElementById('Team').value;
+            var Code_online = document.getElementById('Code_online').value;
+            var Learning_software = document.getElementById('Learning_software').value;
+            var admin_code = document.getElementById('admin_code').value;
+            const type_class = getSelectedRadioValue();
+            var error = document.getElementById('error_notify_edit_data');
+    
+            if (id_subject.trim() == '') {
+                error.textContent = 'Vui lòng nhập chọn môn học!';
+                return;
+            }
+            if (class_code.trim() == '') {
+                error.textContent = 'Vui lòng nhập mã học phần!';
+                return;
+            }
+            if (date_week.trim() == '') {
+                error.textContent = 'Vui lòng chọn thứ trong tuần!';
+                return;
+            }
+            if (Period_from.trim() == '') {
+                error.textContent = 'Vui lòng chọn tiết bắt đầu!';
+                return;
+            }
+            if (Period_to.trim() == '') {
+                error.textContent = 'Vui lòng chọn tiết kết thúc!';
+                return;
+            }
+            if (Date_start.trim() == '') {
+                error.textContent = 'Vui lòng chọn ngày bắt đầu học!';
+                return;
+            }
+            if (Date_end.trim() == '') {
+                error.textContent = 'Vui lòng chọn ngày kết thúc học!';
+                return;
+            }
+            if (Learning_facility.trim() == '') {
+                error.textContent = 'Vui lòng chọn cơ sở học tập!';
+                return;
+            }
+            if (Room.trim() == '') {
+                error.textContent = 'Vui lòng nhập phòng học!';
+                return;
+            }
+            if (Teacher.trim() == '') {
+                error.textContent = 'Vui lòng nhập tên giảng viên!';
+                return;
+            }
+            if (type_class == null) {
+                error.textContent = 'Vui lòng chọn hình thức môn học!';
+                return;
+            }
+            if (admin_code.trim() == '') {
+                error.textContent = 'Vui lòng nhập mã admin!';
+                return;
+            }
+    
+            if (type_class === "TH") {
+                if (Team.trim() == '') {
+                    error.textContent = 'Vui lòng nhập nhóm thực hành!';
+                    return;
+                }
+    
+            } else if (type_class === "EX") {
+                if (Team.trim() == '') {
+                    error.textContent = 'Vui lòng nhập nhóm thi!';
+                    return;
+                }
+    
+            } else if (type_class === "ON") {
+                if (Code_online.trim() == '') {
+                    error.textContent = 'Vui lòng nhập mã phòng!';
+                    return;
+                }
+                if (Learning_software.trim() == '') {
+                    error.textContent = 'Vui lòng nhập tên ứng dụng học online!';
+                    return;
+                }
+            }
+    
+            const admin_code_Regex = 20153;    
+            if (admin_code != admin_code_Regex) {
+                error.textContent = 'Sai mã Admin, vui lòng nhập lại!';
+                return;
+            }
+    
+            
+            
+            const formData = new FormData(form);
+            const xhr = new XMLHttpRequest();
+            xhr.open('POST', '/change-data', true);
+            xhr.onreadystatechange = function() {
+                if (xhr.readyState === 4 && xhr.status === 200) {
+                    var response = JSON.parse(xhr.responseText);
+                    if(response.status == "success"){
+                        error.textContent = response.message;
+                        form.reset();
+                    } else {
+                        error.textContent = response.message;
+                    }
+                }
+            };
+            xhr.send(formData);
+        });
+    });

@@ -524,17 +524,17 @@ td:first-child{
     height: 100%;
     display: flex;
     flex-direction: column;
-    padding: 15px;
+    padding: 10px;
     align-items: center;
     border: 1px solid #1da1f2;
     border-radius: 10px;
     gap: 10px;
   }
-  .section-popup.active .box-content .title_order {
+  .section-popup.active .box-content .title_popup {
     width: 100%;
     height: auto;
     float: left;
-    color: #1da1f2;
+    color: red;
     margin: 0;
     font-weight: 500;
     font-size: 16px;
@@ -630,6 +630,9 @@ td:first-child{
   }
   /* 768 */
   @media screen and (max-width: 768px){
+    .submit_form_data .group_input .btn-action {
+        height: 27px;
+    }
     .btn {
         padding: 4px 8px;
     }
@@ -664,6 +667,9 @@ td:first-child{
   }
   /* 600 */
   @media screen and (max-width: 601px) {
+    .submit_form_data .group_input .btn-action {
+        height: 26px;
+    }
     .header {
         flex-direction: column;
     }
@@ -781,7 +787,7 @@ td:first-child{
     }
     .submit_form_data .group_input button {
         height: 22px;
-        margin-top: 5px;
+        margin-top: 2px;
     }
     .submit_form_data .error-notify-box {
         padding-top: 10px;
@@ -795,7 +801,7 @@ td:first-child{
         justify-content: space-between;
     }
     .submit_form_data .group_input.group_button .general_area {
-        width: 60%;
+        width: 70%;
     }
     .submit_form_data .group_input.group_button .general_area.group_button_left {
         width: 70%;
@@ -803,7 +809,7 @@ td:first-child{
     .section-popup.active {
         width: 200px;
       }
-    .section-popup.active .box-content .title_order {
+    .section-popup.active .box-content .title_popup {
         font-size: 14px;
     }
     .section-popup.active .box-content {
@@ -812,6 +818,12 @@ td:first-child{
   }
   /* 360 */
   @media screen and (max-width: 361px) {
+    .submit_form_data .group_input.group_button.left {
+        flex-direction: column;
+    }
+    .submit_form_data .group_input.group_button.left .general_area {
+        width: 100%;
+    }
     .header .actions .actions_right {
         width: 90%;
     }
@@ -849,10 +861,10 @@ td:first-child{
     .submit_form_data .group_input .general_area {
         font-size: 12px;
     }
-    .submit_form_data .group_input.group_button.group__new{
-        flex-direction: column;
+    .submit_form_data .group_input.group_button.left .general_area{
+        width: 100%;
     }
     .submit_form_data .group_input.group_button .general_area.group_button_left {
-        width: 100%;
+        width: 50%;
     }
   }

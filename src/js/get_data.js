@@ -50,9 +50,22 @@ function get_subject_name() {
         show_popup.addEventListener('click', function(event) {
             var popup = document.getElementById('popup-confirm-delete');
             popup.classList.add('active');
+            document.getElementById('title_popup').innerHTML = '<span class="title_popup">Xóa toàn bộ Database?</span>';
         });
     } else {
         console.log("Không có phần tử id=show_popup_delete ");
+    }
+
+
+    var show_popup_delete_schedule = document.getElementById('delete_schedule');
+    if(show_popup_delete_schedule){
+        show_popup_delete_schedule.addEventListener('click', function(event) {
+            var popup = document.getElementById('popup-confirm-delete');
+            popup.classList.add('active');
+            document.getElementById('title_popup').innerHTML = '<span class="title_popup">Xóa lịch học này?</span>';
+        });
+    } else {
+        console.log("Không có phần tử id=delete_schedule ");
     }
     
     var close_popup = document.getElementById('btn_close_confirm');

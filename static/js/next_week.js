@@ -1,1 +1,120 @@
-const a2_0x59b2bc=a2_0x3565;(function(_0x181020,_0x19a379){const _0x4c927b=a2_0x3565,_0x2ce070=_0x181020();while(!![]){try{const _0xea4f99=parseInt(_0x4c927b(0x199))/0x1*(parseInt(_0x4c927b(0x164))/0x2)+-parseInt(_0x4c927b(0x1ac))/0x3*(parseInt(_0x4c927b(0x1aa))/0x4)+parseInt(_0x4c927b(0x1a3))/0x5+-parseInt(_0x4c927b(0x193))/0x6+parseInt(_0x4c927b(0x165))/0x7*(parseInt(_0x4c927b(0x18d))/0x8)+parseInt(_0x4c927b(0x192))/0x9*(parseInt(_0x4c927b(0x178))/0xa)+-parseInt(_0x4c927b(0x1a2))/0xb*(parseInt(_0x4c927b(0x1a8))/0xc);if(_0xea4f99===_0x19a379)break;else _0x2ce070['push'](_0x2ce070['shift']());}catch(_0x2e7826){_0x2ce070['push'](_0x2ce070['shift']());}}}(a2_0x1dd3,0x4e99d),document['querySelectorAll'](a2_0x59b2bc(0x194))['forEach'](_0x565ea7=>{const _0x476497=a2_0x59b2bc;_0x565ea7[_0x476497(0x182)]('click',function(){const _0x4fa453=_0x476497;location[_0x4fa453(0x198)](!![]);});}),document[a2_0x59b2bc(0x182)](a2_0x59b2bc(0x176),function(){const _0x14bd9d=a2_0x59b2bc,_0x3ed203=[_0x14bd9d(0x168),_0x14bd9d(0x180),_0x14bd9d(0x167),_0x14bd9d(0x15f),'fri',_0x14bd9d(0x1a5),_0x14bd9d(0x191)];let _0x10826e=0x0;function _0x4cb206(){const _0x4179cf=_0x14bd9d,_0x358416=new Date(),_0xa7fe9e=_0x358416[_0x4179cf(0x1a7)](),_0x2cabb7=_0x358416[_0x4179cf(0x186)]()-_0xa7fe9e+(_0xa7fe9e===0x0?-0x6:0x1);return new Date(_0x358416[_0x4179cf(0x181)](_0x2cabb7));}let _0x249e3e=_0x4cb206(),_0x31b43a=new Date(_0x249e3e);_0x4151ae(_0x31b43a,_0x10826e),document[_0x14bd9d(0x18b)](_0x14bd9d(0x173))['addEventListener'](_0x14bd9d(0x17d),()=>_0x343118(0x7)),document['getElementById']('last_week')[_0x14bd9d(0x182)](_0x14bd9d(0x17d),()=>_0x343118(-0x7)),document[_0x14bd9d(0x18b)]('current_week')[_0x14bd9d(0x182)](_0x14bd9d(0x17d),()=>_0x3b745a());function _0x343118(_0x4eeb0f){const _0xa1c339=_0x14bd9d;_0x31b43a[_0xa1c339(0x181)](_0x31b43a['getDate']()+_0x4eeb0f),_0x10826e+=_0x4eeb0f/0x7,_0x4151ae(_0x31b43a,_0x10826e);}function _0x3b745a(){_0x31b43a=new Date(_0x249e3e),_0x10826e=0x0,_0x4151ae(_0x31b43a,0x0);}function _0x4151ae(_0x1359d2,_0x4496db){const _0x3fd85f=_0x14bd9d,_0xe067fd=_0x109a48(_0x1359d2);_0x3ed203['forEach']((_0x17557,_0x209ef6)=>{const _0x7c46d0=a2_0x3565;document[_0x7c46d0(0x18b)](_0x17557)[_0x7c46d0(0x196)]=_0x7c46d0(0x177)+[_0x7c46d0(0x17f),'Ba','Tư',_0x7c46d0(0x15d),_0x7c46d0(0x1af),'Bảy',_0x7c46d0(0x1ad)][_0x209ef6]+'\x20<br>\x20'+_0xe067fd[_0x209ef6];}),fetch(_0x3fd85f(0x16d)+_0x4496db)[_0x3fd85f(0x183)](_0x1f8b32=>_0x1f8b32[_0x3fd85f(0x190)]())[_0x3fd85f(0x183)](_0x3488b4=>{_0x49f650(_0x3488b4);})['catch'](_0x34e78e=>console[_0x3fd85f(0x17e)](_0x3fd85f(0x162),_0x34e78e));}function _0x49f650(_0x28513d){const _0x1c6ea5=_0x14bd9d,_0x522544=document[_0x1c6ea5(0x18b)](_0x1c6ea5(0x18f));_0x522544[_0x1c6ea5(0x196)]='',document['getElementById'](_0x1c6ea5(0x1b2))['innerHTML']=_0x1c6ea5(0x189)+_0x5eb9e0(new Date(_0x28513d[_0x1c6ea5(0x188)]))+'\x20-\x20'+_0x5eb9e0(new Date(_0x28513d[_0x1c6ea5(0x19f)]));const _0x5eeec6=['Sáng','Chiều',_0x1c6ea5(0x1ab)];_0x5eeec6['forEach']((_0x2c6526,_0x1ae6aa)=>{const _0x38e5f8=_0x1c6ea5;let _0x1a85c0=document[_0x38e5f8(0x16c)]('tr');_0x1a85c0['innerHTML']=_0x38e5f8(0x1a9)+_0x2c6526+_0x38e5f8(0x18a);for(let _0x49d6be=0x1;_0x49d6be<=0x7;_0x49d6be++){let _0x2cd9d2=document[_0x38e5f8(0x16c)]('td');_0x28513d[_0x38e5f8(0x172)][_0x38e5f8(0x16b)](_0x2e8f27=>{const _0x560f70=_0x38e5f8;_0x10bd6c(_0x2e8f27,_0x1ae6aa,_0x49d6be)&&_0x2cd9d2[_0x560f70(0x187)](_0x3a4e0a(_0x2e8f27));}),_0x1a85c0[_0x38e5f8(0x187)](_0x2cd9d2);}_0x522544[_0x38e5f8(0x187)](_0x1a85c0);});}function _0x10bd6c(_0x31b821,_0x71639b,_0x3dd5c6){const _0x3d8817=_0x14bd9d,_0x2aada9=[[0x1,0x6],[0x7,0xc],[0xd,0xf]];return _0x2aada9[_0x71639b][0x0]<=_0x31b821[_0x3d8817(0x19a)]&&_0x31b821[_0x3d8817(0x19a)]<=_0x2aada9[_0x71639b][0x1]&&_0x31b821[_0x3d8817(0x17c)]===_0x3dd5c6;}function _0x3a4e0a(_0x46628d){const _0x4488ca=_0x14bd9d,_0x46f806={'LT':_0x4488ca(0x17b),'TH':_0x4488ca(0x195),'ON':_0x4488ca(0x185),'EX':_0x4488ca(0x15e)};let _0x2d1ce2=document[_0x4488ca(0x16c)](_0x4488ca(0x15c));return _0x2d1ce2['className']=_0x4488ca(0x1ae)+(_0x46f806[_0x46628d[_0x4488ca(0x1b1)]]||''),_0x2d1ce2['innerHTML']='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+(_0x46628d[_0x4488ca(0x197)]==='TN'?_0x4488ca(0x19c):'')+_0x4488ca(0x169)+_0x46628d['subject_name']+_0x4488ca(0x174)+_0x46628d[_0x4488ca(0x19b)]+_0x4488ca(0x1a0)+_0x46628d[_0x4488ca(0x19a)]+_0x4488ca(0x1a1)+_0x46628d['period_to']+_0x4488ca(0x179)+_0x46628d[_0x4488ca(0x163)]+_0x4488ca(0x166)+_0x46628d[_0x4488ca(0x1b0)]+_0x4488ca(0x170)+_0x46628d[_0x4488ca(0x184)]+_0x4488ca(0x16e)+_0x46628d[_0x4488ca(0x16f)]+_0x4488ca(0x161)+(_0x46628d[_0x4488ca(0x1b1)]==='ON'?_0x4488ca(0x18e)+_0x46628d[_0x4488ca(0x19e)]+_0x4488ca(0x1a4)+_0x46628d[_0x4488ca(0x17a)]+_0x4488ca(0x19d):'')+_0x4488ca(0x160),_0x2d1ce2;}function _0x109a48(_0xd5e68a){const _0x3bee36=_0x14bd9d;return Array[_0x3bee36(0x1a6)]({'length':0x7},(_0x5c3573,_0x4dfa72)=>_0x5eb9e0(new Date(_0xd5e68a[_0x3bee36(0x16a)]()+_0x4dfa72*0x5265c00)));}function _0x5eb9e0(_0x39c3c7){const _0x537528=_0x14bd9d;return _0x39c3c7['getDate']()['toString']()[_0x537528(0x171)](0x2,'0')+'/'+(_0x39c3c7[_0x537528(0x18c)]()+0x1)[_0x537528(0x175)]()[_0x537528(0x171)](0x2,'0')+'/'+_0x39c3c7['getFullYear']();}}));function a2_0x3565(_0x1ee913,_0x5d1a56){const _0x1dd3d2=a2_0x1dd3();return a2_0x3565=function(_0x356505,_0x37b713){_0x356505=_0x356505-0x15c;let _0x27eed1=_0x1dd3d2[_0x356505];return _0x27eed1;},a2_0x3565(_0x1ee913,_0x5d1a56);}function a2_0x1dd3(){const _0x37ff0d=['\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>Code:\x20','schedule_body','json','sun','9krdrmh','256290melVof','[data-refresh-button]','practice','innerHTML','suspension_status','reload','2678UaLfKt','period_from','class_code','<div\x20class=\x22tam_ngung\x22><span>Tạm\x20ngưng</span></div>','</div>','code_online','week_end','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>Tiết:\x20','\x20-\x20','211706DxdpLL','3072275DRmLIh','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>Phần\x20mềm:\x20','sat','from','getDay','780QEzHNG','<td>','32qloeiq','Tối','51297oYiMyq','Chủ\x20Nhật','box_info\x20','Sáu','teacher_name','type_class','calender','div','Năm','exam','thu','\x0a\x20\x20\x20\x20\x20\x20\x20\x20','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','Error\x20fetching\x20data:','room','398vivWlw','1148dqMxob','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>GV:\x20','wed','mon','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22name_object\x22>','getTime','forEach','createElement','/next-week?week_offset=','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>Nhóm:\x20','team','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>Cơ\x20sở:\x20','padStart','filtered_items','next_week','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>','toString','DOMContentLoaded','Thứ\x20','2624730kzfFjC','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>Phòng:\x20','learning_software','theory','date_week','click','error','Hai','tue','setDate','addEventListener','then','learning_facility','online','getDate','appendChild','week_start','Tuần:\x20','</td>','getElementById','getMonth','16712XOMQli'];a2_0x1dd3=function(){return _0x37ff0d;};return a2_0x1dd3();}
+// "refesh" - Nút refresh có data-refresh-button
+document.querySelectorAll('[data-refresh-button]').forEach(button => {
+    button.addEventListener('click', function () {
+        location.reload(true); // Thực hiện reload bỏ qua cache
+    });
+});
+
+document.addEventListener('DOMContentLoaded', function () {
+    const weekDays = ["mon", "tue", "wed", "thu", "fri", "sat", "sun"];
+    let offset = 0;
+
+    function get_Date_Start_Of_Week() {
+        const today = new Date();
+        const day = today.getDay();
+        const diff = today.getDate() - day + (day === 0 ? -6 : 1); // Nếu Chủ Nhật, tính từ Thứ Hai
+        return new Date(today.setDate(diff));
+    }
+
+    let current_Week_Start = get_Date_Start_Of_Week();
+    let displayed_Week = new Date(current_Week_Start);
+
+    update_Week(displayed_Week, offset);
+
+    document.getElementById('next_week').addEventListener('click', () => changeWeek(7));
+    document.getElementById('last_week').addEventListener('click', () => changeWeek(-7));
+    document.getElementById('current_week').addEventListener('click', () => resetWeek());
+
+    function changeWeek(days) {
+        displayed_Week.setDate(displayed_Week.getDate() + days);
+        offset += days / 7;
+        update_Week(displayed_Week, offset);
+    }
+
+    function resetWeek() {
+        displayed_Week = new Date(current_Week_Start);
+        offset = 0;
+        update_Week(displayed_Week, 0);
+    }
+
+    function update_Week(startOfWeek, weekOffset) {
+        const weekDates = getWeekDates(startOfWeek);
+        weekDays.forEach((id, index) => {
+            document.getElementById(id).innerHTML = `Thứ ${["Hai", "Ba", "Tư", "Năm", "Sáu", "Bảy", "Chủ Nhật"][index]} <br> ${weekDates[index]}`;
+        });
+
+        fetch(`/next-week?week_offset=${weekOffset}`)
+            .then(response => response.json())
+            .then(result => {
+                renderSchedule(result);
+            })
+            .catch(error => console.error('Error fetching data:', error));
+    }
+
+    function renderSchedule(result) {
+        const scheduleBody = document.getElementById('schedule_body');
+        scheduleBody.innerHTML = '';
+
+        document.getElementById('calender').innerHTML =
+            `Tuần: ${formatDate(new Date(result.week_start))} - ${formatDate(new Date(result.week_end))}`;
+
+        const periods = ["Sáng", "Chiều", "Tối"];
+        periods.forEach((period, index) => {
+            let row = document.createElement('tr');
+            row.innerHTML = `<td>${period}</td>`;
+
+            for (let day = 1; day <= 7; day++) {
+                let cell = document.createElement('td');
+                result.filtered_items.forEach(item => {
+                    if (isItemInPeriod(item, index, day)) {
+                        cell.appendChild(createScheduleBox(item));
+                    }
+                });
+                row.appendChild(cell);
+            }
+            scheduleBody.appendChild(row);
+        });
+    }
+
+    function isItemInPeriod(item, periodIndex, day) {
+        const period_ranges = [[1, 6], [7, 12], [13, 15]];
+        return (
+            period_ranges[periodIndex][0] <= item.period_from &&
+            item.period_from <= period_ranges[periodIndex][1] &&
+            item.date_week === day
+        );
+    }
+
+    function createScheduleBox(item) {
+        const classTypes = { "LT": "theory", "TH": "practice", "ON": "online", "EX": "exam" };
+        let div = document.createElement('div');
+        div.className = `box_info ${classTypes[item.type_class] || ""}`;
+        div.innerHTML = `
+            ${item.suspension_status === "TN" ? `<div class="tam_ngung"><span>Tạm ngưng</span></div>` : ""}
+            <div class="name_object">${item.subject_name}</div>
+            <div>${item.class_code}</div>
+            <div>Tiết: ${item.period_from} - ${item.period_to}</div>
+            <div>Phòng: ${item.room}</div>
+            <div>GV: ${item.teacher_name}</div>
+            <div>Cơ sở: ${item.learning_facility}</div>
+            <div>Nhóm: ${item.team}</div>
+            ${item.type_class === "ON" ? `
+                <div>Code: ${item.code_online}</div>
+                <div>Phần mềm: ${item.learning_software}</div>` : ""}
+        `;
+        return div;
+    }
+
+    function getWeekDates(startOfWeek) {
+        return Array.from({ length: 7 }, (_, i) => formatDate(new Date(startOfWeek.getTime() + i * 86400000)));
+    }
+
+    function formatDate(date) {
+        return `${date.getDate().toString().padStart(2, '0')}/${(date.getMonth() + 1).toString().padStart(2, '0')}/${date.getFullYear()}`;
+    }
+});
+
+
+
+
+
