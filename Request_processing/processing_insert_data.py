@@ -38,4 +38,4 @@ def add_data(data):
     db.session.add(schedule)
 
     db.session.commit()
-    return jsonify({"message": "Bạn đã sửa lịch học thành công!", "status": "success"}), 200
+    return jsonify({"message": "Bạn đã thêm lịch học thành công!", "status": "success"}), 200
