@@ -397,3 +397,15 @@
 2025-02-16 19:07:24,521 - INFO - 127.0.0.1 - - [16/Feb/2025 19:07:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
 2025-02-16 19:07:24,521 - INFO - 127.0.0.1 - - [16/Feb/2025 19:07:24] "[36mGET /static/js/next_week.js HTTP/1.1[0m" 304 -
 2025-02-16 19:07:24,543 - INFO - 127.0.0.1 - - [16/Feb/2025 19:07:24] "GET /next-week?week_offset=0 HTTP/1.1" 200 -
+2025-02-16 19:08:26,572 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.24:5000
+2025-02-16 19:08:26,573 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-16 19:08:28,241 - INFO - 127.0.0.1 - - [16/Feb/2025 19:08:28] "GET / HTTP/1.1" 200 -
+2025-02-16 19:08:28,321 - INFO - 127.0.0.1 - - [16/Feb/2025 19:08:28] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-16 19:08:28,330 - INFO - 127.0.0.1 - - [16/Feb/2025 19:08:28] "GET /static/js/next_week.js HTTP/1.1" 200 -
+2025-02-16 19:08:28,341 - INFO - 127.0.0.1 - - [16/Feb/2025 19:08:28] "GET /static/image/transparent-pattern-square-4.png HTTP/1.1" 200 -
+2025-02-16 19:08:28,374 - INFO - 127.0.0.1 - - [16/Feb/2025 19:08:28] "GET /next-week?week_offset=0 HTTP/1.1" 200 -
+2025-02-16 19:08:28,510 - INFO - 127.0.0.1 - - [16/Feb/2025 19:08:28] "GET /static/image/Icon-UEF.webp HTTP/1.1" 200 -
+2025-02-16 19:08:29,486 - INFO - 127.0.0.1 - - [16/Feb/2025 19:08:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
